@@ -1,3 +1,5 @@
+//http://stackoverflow.com/questions/18759206/how-to-add-subview-inside-uialertview-for-ios-7
+
 You can really change accessoryView to customContentView in iOS7 UIAlertView
 
 [alertView setValue:customContentView forKey:@"accessoryView"];
